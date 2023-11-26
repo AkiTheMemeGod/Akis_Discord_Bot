@@ -1,0 +1,8 @@
+Aki's Bot#9344 is now running!
+akithememegod said: "hey" (lol-no)
+400 Bad Request (error code: 50006): Cannot send an empty message
+akithememegod said: "bot ?" (lol-no)
+akithememegod said: "?bot" (bots)
+akithememegod said: "$documents app.pdf" (Direct Message with Unknown User)
+akithememegod said: "$documents whitelist.json" (Direct Message with Unknown User)
+akithememegod said: "$restart" (Direct Message with Unknown User)
